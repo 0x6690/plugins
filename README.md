@@ -9,5 +9,6 @@ Plugins for Freeboard.io
 
 This is a datasource plugin to connect freeboard.io dashboards to real-time node.js servers.
 
-- [pubnub.plugin.js] 
+- [pubnub.plugin.js](/datasources/pubnub.plugin.js)
+
 This is a datasource plugin to connect freeboard.io dashboards to pubnub using the official pubnub SDK
